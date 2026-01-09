@@ -43,6 +43,15 @@ Due to GitHub file size limits, the dataset is not included in this repository.
 Dataset link:
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
+## How to Run
+1. Install dependencies:
+   pip install pandas scikit-learn
+2. Download dataset from Kaggle
+3. Place `creditcard.csv` in project folder
+4. Run:
+   python fraud_detection.py
+
+
 
 ## Results
 - Logistic Regression achieved high accuracy but lower fraud recall due to data imbalance.
