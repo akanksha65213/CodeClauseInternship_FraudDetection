@@ -42,3 +42,10 @@ Due to GitHub file size limits, the dataset is not included in this repository.
 
 Dataset link:
 https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+
+## Results
+- Logistic Regression achieved high accuracy but lower fraud recall due to data imbalance.
+- Isolation Forest improved fraud detection by treating frauds as anomalies.
+- Recall was prioritized over accuracy due to the high cost of false negatives.
+
