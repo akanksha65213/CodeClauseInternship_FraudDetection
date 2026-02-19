@@ -1,7 +1,5 @@
-# CodeClause Internship Project  
-## Fraud Detection using Machine Learning
 
-This project was developed as part of the **CodeClause Data Science Internship**.
+## Fraud Detection using Machine Learning
 
 ## Project Aim
 To detect fraudulent credit card transactions using machine learning techniques.
